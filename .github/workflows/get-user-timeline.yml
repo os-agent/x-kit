@@ -1,4 +1,4 @@
-name: Get Home Latest Timeline
+name: Get User Timeline
 
 on:
   schedule:
