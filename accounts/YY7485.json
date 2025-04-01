@@ -1,0 +1,85 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "businessAccount": {},
+  "creatorSubscriptionsCount": 0,
+  "hasGraduatedAccess": true,
+  "highlightsInfo": {
+    "canHighlightTweets": false,
+    "highlightedTweets": "0"
+  },
+  "id": "VXNlcjoxNzAyMjA4NTc3NzgyMzcwMzA0",
+  "isBlueVerified": false,
+  "isProfileTranslatable": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Sep 14 06:32:10 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "又是一个新号，应该有脸熟的吧 电报资源预览群：https://t.co/MiP6xNEeT3",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/zyyulan",
+            "expanded_url": "https://t.me/zyyulan",
+            "url": "https://t.co/MiP6xNEeT3",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/zyyulan",
+            "expanded_url": "https://t.me/zyyulan",
+            "url": "https://t.co/MiP6xNEeT3",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 135,
+    "followersCount": 4952,
+    "following": false,
+    "friendsCount": 109,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 15,
+    "location": "",
+    "mediaCount": 92,
+    "name": "YY",
+    "normalFollowersCount": 4952,
+    "pinnedTweetIdsStr": [
+      "1878104867719315483"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1702208577782370304/1736610105",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1702208637677002752/S77R403b_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "YY7485",
+    "statusesCount": 125,
+    "translatorType": "none",
+    "url": "https://t.co/MiP6xNEeT3",
+    "verified": false,
+    "wantRetweets": false,
+    "withheldInCountries": []
+  },
+  "legacyExtendedProfile": {},
+  "premiumGiftingEligible": true,
+  "profileImageShape": "Circle",
+  "restId": "1702208577782370304",
+  "tipjarSettings": {},
+  "userSeedTweetCount": 0,
+  "verificationInfo": {
+    "isIdentityVerified": false
+  }
+}
