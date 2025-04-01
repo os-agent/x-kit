@@ -1,0 +1,121 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "businessAccount": {},
+  "creatorSubscriptionsCount": 0,
+  "hasGraduatedAccess": true,
+  "highlightsInfo": {
+    "canHighlightTweets": true,
+    "highlightedTweets": "3"
+  },
+  "id": "VXNlcjoxMTMxNDQyMjU3Njc1MDgzNzc3",
+  "isBlueVerified": true,
+  "isProfileTranslatable": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu May 23 06:10:30 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🎯 AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 巢级智造 创始人 https://t.co/Jf3ZgaF6No｜🤝 巢级个体社区 主理人｜🌐 @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "01flow.com",
+            "expanded_url": "http://01flow.com",
+            "url": "https://t.co/Jf3ZgaF6No",
+            "indices": [
+              48,
+              71
+            ]
+          },
+          {
+            "display_url": "xiaohuolufm.com",
+            "expanded_url": "http://xiaohuolufm.com",
+            "url": "https://t.co/2Qdnz1bbPM",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "cellinlab.com",
+            "expanded_url": "https://www.cellinlab.com",
+            "url": "https://t.co/JlXywaIviz",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4300,
+    "followersCount": 8225,
+    "following": false,
+    "friendsCount": 3397,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 78,
+    "location": "",
+    "mediaCount": 906,
+    "name": "Cell 细胞",
+    "normalFollowersCount": 8225,
+    "pinnedTweetIdsStr": [
+      "1773257450327560229"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1131442257675083777/1732942869",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cellinlab",
+    "statusesCount": 4668,
+    "translatorType": "none",
+    "url": "https://t.co/JlXywaIviz",
+    "verified": false,
+    "wantRetweets": false,
+    "withheldInCountries": []
+  },
+  "legacyExtendedProfile": {},
+  "premiumGiftingEligible": false,
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1639998547071488000"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1131442257675083777",
+  "tipjarSettings": {},
+  "userSeedTweetCount": 0,
+  "verificationInfo": {
+    "isIdentityVerified": false,
+    "reason": {
+      "description": {
+        "entities": [
+          {
+            "fromIndex": 26,
+            "ref": {
+              "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "urlType": "ExternalUrl"
+            },
+            "toIndex": 36
+          }
+        ],
+        "text": "This account is verified. Learn more"
+      },
+      "verifiedSinceMsec": "1705542440505"
+    }
+  }
+}

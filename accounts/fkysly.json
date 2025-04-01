@@ -1,0 +1,112 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "businessAccount": {},
+  "creatorSubscriptionsCount": 0,
+  "hasGraduatedAccess": true,
+  "highlightsInfo": {
+    "canHighlightTweets": true,
+    "highlightedTweets": "3"
+  },
+  "id": "VXNlcjozNzEyOTY3MDE=",
+  "isBlueVerified": true,
+  "isProfileTranslatable": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Sep 10 15:39:19 +0000 2011",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Vision Pro developer, Just-for-Instagram app. Threads Analytics: https://t.co/t0XT54LQwE. IHU 周刊 - https://t.co/HHluHnkNil，分享我学习的独立开发信息",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "threadsdashboard.com",
+            "expanded_url": "https://threadsdashboard.com",
+            "url": "https://t.co/t0XT54LQwE",
+            "indices": [
+              65,
+              88
+            ]
+          },
+          {
+            "display_url": "quaily.com/indieunknown",
+            "expanded_url": "https://quaily.com/indieunknown",
+            "url": "https://t.co/HHluHnkNil",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "quaily.com/indieunknown",
+            "expanded_url": "https://quaily.com/indieunknown",
+            "url": "https://t.co/HHluHnkNil",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 86,
+    "followersCount": 5280,
+    "following": false,
+    "friendsCount": 315,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 49,
+    "location": "杭州",
+    "mediaCount": 82,
+    "name": "马天翼",
+    "normalFollowersCount": 5280,
+    "pinnedTweetIdsStr": [
+      "1901880061344796863"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/371296701/1473361875",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "fkysly",
+    "statusesCount": 1002,
+    "translatorType": "none",
+    "url": "https://t.co/HHluHnkNil",
+    "verified": false,
+    "wantRetweets": false,
+    "withheldInCountries": []
+  },
+  "legacyExtendedProfile": {},
+  "premiumGiftingEligible": false,
+  "profileImageShape": "Circle",
+  "restId": "371296701",
+  "tipjarSettings": {
+    "isEnabled": true
+  },
+  "userSeedTweetCount": 0,
+  "verificationInfo": {
+    "isIdentityVerified": true,
+    "reason": {
+      "description": {
+        "entities": [
+          {
+            "fromIndex": 26,
+            "ref": {
+              "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "urlType": "ExternalUrl"
+            },
+            "toIndex": 36
+          }
+        ],
+        "text": "This account is verified. Learn more"
+      },
+      "verifiedSinceMsec": "1708754582402"
+    }
+  }
+}

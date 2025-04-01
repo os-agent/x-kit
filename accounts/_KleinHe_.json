@@ -1,0 +1,94 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "businessAccount": {},
+  "creatorSubscriptionsCount": 0,
+  "hasGraduatedAccess": true,
+  "highlightsInfo": {
+    "canHighlightTweets": false,
+    "highlightedTweets": "0"
+  },
+  "id": "VXNlcjoxNzkwMjE3MTA3MTMwNjk1Njgw",
+  "isBlueVerified": false,
+  "isProfileTranslatable": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue May 14 03:07:00 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "20 y/o，全栈开发&产品设计师，代码和设计都是我想象力的延伸 🎨\nENTJ/ENFJ，书虫，喜欢 R&B、citypop，沉迷做菜中\nhttps://t.co/J10zM772T7\n英推：https://t.co/wRw05o35m5",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "glances.ai",
+            "expanded_url": "https://glances.ai",
+            "url": "https://t.co/J10zM772T7",
+            "indices": [
+              69,
+              92
+            ]
+          },
+          {
+            "display_url": "x.com/_kleinhe",
+            "expanded_url": "http://x.com/_kleinhe",
+            "url": "https://t.co/wRw05o35m5",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "kleinhe.com",
+            "expanded_url": "http://kleinhe.com",
+            "url": "https://t.co/m2BF9O3l8e",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2813,
+    "followersCount": 1053,
+    "following": false,
+    "friendsCount": 537,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 13,
+    "location": "🟩 🟨 🟨 🟨 🟨  10k followers",
+    "mediaCount": 54,
+    "name": "KleinHE",
+    "normalFollowersCount": 1053,
+    "pinnedTweetIdsStr": [
+      "1830245275283402809"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1790217107130695680/1737455126",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1881649248544198656/kKHVSKsP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "_KleinHe_",
+    "statusesCount": 692,
+    "translatorType": "none",
+    "url": "https://t.co/m2BF9O3l8e",
+    "verified": false,
+    "wantRetweets": false,
+    "withheldInCountries": []
+  },
+  "legacyExtendedProfile": {},
+  "premiumGiftingEligible": true,
+  "profileImageShape": "Circle",
+  "restId": "1790217107130695680",
+  "tipjarSettings": {},
+  "userSeedTweetCount": 0,
+  "verificationInfo": {
+    "isIdentityVerified": false
+  }
+}

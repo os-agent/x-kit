@@ -1,0 +1,93 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "businessAccount": {},
+  "creatorSubscriptionsCount": 0,
+  "hasGraduatedAccess": true,
+  "highlightsInfo": {
+    "canHighlightTweets": true,
+    "highlightedTweets": "52"
+  },
+  "id": "VXNlcjo3ODY0Nzk4MDk2NDc4Njk5NTI=",
+  "isBlueVerified": true,
+  "isProfileTranslatable": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Oct 13 08:12:53 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "skywind.me/blog",
+            "expanded_url": "https://skywind.me/blog",
+            "url": "https://t.co/UQNrDmhScr",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4099,
+    "followersCount": 21815,
+    "following": false,
+    "friendsCount": 279,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 156,
+    "location": "Guangdong",
+    "mediaCount": 749,
+    "name": "LIN WEI",
+    "normalFollowersCount": 21815,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "skywind3000",
+    "statusesCount": 5249,
+    "translatorType": "none",
+    "url": "https://t.co/UQNrDmhScr",
+    "verified": false,
+    "wantRetweets": false,
+    "withheldInCountries": []
+  },
+  "legacyExtendedProfile": {},
+  "premiumGiftingEligible": false,
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1620584589067534336"
+  },
+  "profileImageShape": "Circle",
+  "restId": "786479809647869952",
+  "tipjarSettings": {},
+  "userSeedTweetCount": 0,
+  "verificationInfo": {
+    "isIdentityVerified": false,
+    "reason": {
+      "description": {
+        "entities": [
+          {
+            "fromIndex": 26,
+            "ref": {
+              "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "urlType": "ExternalUrl"
+            },
+            "toIndex": 36
+          }
+        ],
+        "text": "This account is verified. Learn more"
+      },
+      "verifiedSinceMsec": "1690203221601"
+    }
+  }
+}

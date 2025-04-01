@@ -1,0 +1,85 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "businessAccount": {},
+  "creatorSubscriptionsCount": 0,
+  "hasGraduatedAccess": true,
+  "highlightsInfo": {
+    "canHighlightTweets": false,
+    "highlightedTweets": "0"
+  },
+  "id": "VXNlcjoxNjg5OTY5NDM4NDg0MDMzNTM2",
+  "isBlueVerified": false,
+  "isProfileTranslatable": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Aug 11 11:58:14 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "开源爱好者，@kanaries_data 创始人，@ob12er 的中文号；副业https://t.co/IRbF0jr4HO",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "photes.io",
+            "expanded_url": "http://photes.io",
+            "url": "https://t.co/IRbF0jr4HO",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "github.com/ObservedObserv…",
+            "expanded_url": "https://github.com/ObservedObserver",
+            "url": "https://t.co/C2jAm3FMIG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 390,
+    "followersCount": 644,
+    "following": false,
+    "friendsCount": 500,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 5,
+    "location": "你身后",
+    "mediaCount": 123,
+    "name": "分形香蕉",
+    "normalFollowersCount": 644,
+    "pinnedTweetIdsStr": [
+      "1740117341227360720"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1689969438484033536/1698130296",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1905941761056518144/iSLVVRQg_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "o12er_banana",
+    "statusesCount": 792,
+    "translatorType": "none",
+    "url": "https://t.co/C2jAm3FMIG",
+    "verified": false,
+    "wantRetweets": false,
+    "withheldInCountries": []
+  },
+  "legacyExtendedProfile": {},
+  "premiumGiftingEligible": false,
+  "profileImageShape": "Circle",
+  "restId": "1689969438484033536",
+  "tipjarSettings": {},
+  "userSeedTweetCount": 0,
+  "verificationInfo": {
+    "isIdentityVerified": false
+  }
+}
